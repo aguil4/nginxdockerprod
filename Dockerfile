@@ -1,1 +1,1 @@
-FROM aguil4/nginxspecial:v3
+FROM aguil4/nginxspecial:v4
